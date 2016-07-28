@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Character>
+  <Stats>
+    <HealthPoints>100</HealthPoints>
+    <AttackPower>10</AttackPower>
+    <Defense>10</Defense>
+    <Range>1.92</Range>
+    <ApChargeRate>20</ApChargeRate>
+  </Stats>
+</Character>

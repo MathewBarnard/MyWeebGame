@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Formation>
+  <Row Type="Front">
+    <PartyId>0</PartyId>
+  </Row>
+  <Row Type="Middle">    
+  </Row>
+  <Row Type="Back">
+  </Row>
+</Formation>
