@@ -5,19 +5,10 @@
     <AttackPower>10</AttackPower>
     <Defense>10</Defense>
     <Range>1.92</Range>
-    <ApChargeRate>10</ApChargeRate>
+    <ApChargeRate>20</ApChargeRate>
   </Stats>
   <Spellbook>
-    <Spell>Melee</Spell>
   </Spellbook>
   <Tactics>
-    <Tactic>
-      <Condition>
-        <Name>ApGreaterThan</Name>
-        <Parameter>50.0</Parameter>
-      </Condition>
-      <Spell>Melee</Spell>
-      <Target>Random</Target>
-    </Tactic>
   </Tactics>
 </Character>

@@ -10,6 +10,6 @@ namespace DAO
     {
         Character GetCharacterById(int i);
 
-        Character GetCharacterByName(string name);
+        Character GetCharacterByName(bool isPlayer, string name);
     }
 }
